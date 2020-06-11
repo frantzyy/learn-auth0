@@ -10,13 +10,10 @@ This sample demonstrates:
 
 Use `yarn` or `npm` to install the project dependencies:
 
-```bash
+````bash
 # Using npm..
 npm install
 
-# Using yarn..
-yarn install
-```
 
 ### Configuration
 
@@ -29,7 +26,7 @@ To do this, first copy `src/auth_config.json.example` into a new file in the sam
   "domain": "{YOUR AUTH0 DOMAIN}",
   "clientId": "{YOUR AUTH0 CLIENT ID}"
 }
-```
+````
 
 ### Compiles and hot-reloads for development
 
